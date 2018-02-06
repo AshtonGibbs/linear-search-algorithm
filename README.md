@@ -1,2 +1,2 @@
 # linear-search-algorithm
-This program is implements a binary search algorithm
+This program implements a binary search algorithm
